@@ -316,4 +316,4 @@ enter.place(x=400,y=210)
 enter = Button(canvas2,text="hide solution",command=hide_solution)
 enter.place(x=400,y=240)
 
-
+root.mainloop()
